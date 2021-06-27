@@ -1,0 +1,18 @@
+{% extends "layout.html"  %}
+
+{% block content %}
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h1>You have requested below product:</h1>
+
+            <p>Product ID : {{ data.id }}</p>
+            <p>Product Name : {{ data.name }}</p>
+            <p>Price : {{ data.price }}</p>
+
+        </div>
+    </div>
+{% endblock %}
+ {% include "includes/footer.html" %}
+
+
+
