@@ -5,6 +5,6 @@ class Config(object):
     SECRET_KEY = os.environ.get('SECRET_KEY') or "Secret_String"
 
     MONGODB_SETTINGS = {'db': 'UTA_PRODUCTS'
-         ,
-                         'host':'mongodb://localhost:27017/UTA_PRODUCTS'
+         # ,
+         #                 'host':'mongodb://localhost:27017/UTA_PRODUCTS'
                         }
