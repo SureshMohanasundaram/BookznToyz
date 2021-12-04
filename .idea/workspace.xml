@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50601f9f-5c93-4209-9531-3de142988d6c" name="Default Changelist" comment="Host Added" />
+    <list default="true" id="50601f9f-5c93-4209-9531-3de142988d6c" name="Default Changelist" comment="Host removed">
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638613180353</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Host Added">
+      <created>1638613674659</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638613674659</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Host removed">
+      <created>1638614187920</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638614187920</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -256,7 +272,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Host Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Host Added" />
+    <MESSAGE value="Host removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Host removed" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Pipfile.lock">
